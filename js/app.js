@@ -1,2 +1,2 @@
-// Implementarsolución aquí
+// Implementar solución aquí
 
