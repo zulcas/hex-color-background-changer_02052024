@@ -21,3 +21,7 @@ Finalmente, en __js/solution_provided__ tienes una solución del autor original.
 ## Demo del proyecto
 
 [Demo](https://js-beginners.github.io/hex-color-background-changer/)
+
+## Otras soluciones
+
+Solución usando la función getComputedProperty para obtener el color CSS computado de un elemento del DOM, por [Fabián Taranto](https://github.com/fataranto/background-color-switcher)
