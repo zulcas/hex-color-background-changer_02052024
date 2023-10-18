@@ -16,8 +16,6 @@ Finalmente, en __js/solution_provided__ tienes una solución del autor original.
 
 1. NO copies/pegues una línea de código. Ni siquiera de tu ejercicio anterior. El objetivo es que obtengas soltura y entendimiento en los datos que estás tratando.
 
-2. Queda <span style="color: red;">prohibido</span> el uso de cualquier otro método para obtener elementos del DOM que no sea **querySelector**. 
-
 ## Demo del proyecto
 
 [Demo](https://js-beginners.github.io/hex-color-background-changer/)
