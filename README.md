@@ -3,7 +3,7 @@ Queremos que, al hacer clic en el botón "Click me!"
 
 ## Pasos a seguir
 
-0. Borra o renombra el fichero __js/app.js__
+0. Implementa tu solución en __js/app.js__ y en __index.html__
 1. Intenta primero simplemente recuperar el elemento del DOM al que debes aplicar el evento __click__
 2. Comprueba que eres capaz de aplicarlo, haciendo una prueba simple, como por ejemplo, que al hacer clic, muestre un mensaje por la consola.
 3. Después, haz que al hacer clic en el botón, el fondo del __body__ cambie el color 
